@@ -9,7 +9,7 @@ export default function Home() {
                 href={"/"}
                 className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
             >
-                Back to home
+                Back to home page
             </Link>
         </main>
     );
